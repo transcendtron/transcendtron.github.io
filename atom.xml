@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DANGGUIDAN</title>
+  
+  <subtitle>Lab Of Unknow</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-07-05T13:39:27.856Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>DANGGUIDAN</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/07/05/hello-world/"/>
+    <id>http://yoursite.com/2018/07/05/hello-world/</id>
+    <published>2018-07-05T13:39:27.856Z</published>
+    <updated>2018-07-05T13:39:27.856Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Middle-School-English</title>
+    <link href="http://yoursite.com/2017/11/19/Middle-School-English/"/>
+    <id>http://yoursite.com/2017/11/19/Middle-School-English/</id>
+    <published>2017-11-19T07:37:01.000Z</published>
+    <updated>2018-03-14T06:12:16.378Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;七年级上册&quot;&gt;&lt;a href=&quot;#七年级上册&quot; class=&quot;headerlink&quot; title=&quot;七年级上册&quot;&gt;&lt;/a&gt;七年级上册&lt;/h3&gt;&lt;h4 id=&quot;Starter-Unit1-Good-morning&quot;&gt;&lt;a href=&quot;#Starter-Unit1-G
+      
+    
+    </summary>
+    
+      <category term="English" scheme="http://yoursite.com/categories/English/"/>
+    
+    
+      <category term="English" scheme="http://yoursite.com/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Politics</title>
+    <link href="http://yoursite.com/2017/11/19/Politics/"/>
+    <id>http://yoursite.com/2017/11/19/Politics/</id>
+    <published>2017-11-19T03:01:59.000Z</published>
+    <updated>2017-11-19T04:07:15.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;初中政治与法制&quot;&gt;&lt;a href=&quot;#初中政治与法制&quot; class=&quot;headerlink&quot; title=&quot;初中政治与法制&quot;&gt;&lt;/a&gt;初中政治与法制&lt;/h3&gt;&lt;h4 id=&quot;七年级上册&quot;&gt;&lt;a href=&quot;#七年级上册&quot; class=&quot;headerlink&quot; ti
+      
+    
+    </summary>
+    
+      <category term="Politics" scheme="http://yoursite.com/categories/Politics/"/>
+    
+    
+      <category term="Politics" scheme="http://yoursite.com/tags/Politics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>History</title>
+    <link href="http://yoursite.com/2017/11/18/History/"/>
+    <id>http://yoursite.com/2017/11/18/History/</id>
+    <published>2017-11-18T10:21:49.000Z</published>
+    <updated>2017-11-19T04:30:09.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;初中&quot;&gt;&lt;a href=&quot;#初中&quot; class=&quot;headerlink&quot; title=&quot;初中&quot;&gt;&lt;/a&gt;初中&lt;/h3&gt;&lt;h4 id=&quot;中国古代史上&quot;&gt;&lt;a href=&quot;#中国古代史上&quot; class=&quot;headerlink&quot; title=&quot;中国古代史上&quot;&gt;&lt;/a&gt;中
+      
+    
+    </summary>
+    
+      <category term="History" scheme="http://yoursite.com/categories/History/"/>
+    
+    
+      <category term="History" scheme="http://yoursite.com/tags/History/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chinese</title>
+    <link href="http://yoursite.com/2017/11/18/Chinese/"/>
+    <id>http://yoursite.com/2017/11/18/Chinese/</id>
+    <published>2017-11-18T09:40:39.000Z</published>
+    <updated>2017-11-18T16:25:22.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;初中&quot;&gt;&lt;a href=&quot;#初中&quot; class=&quot;headerlink&quot; title=&quot;初中&quot;&gt;&lt;/a&gt;初中&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;专题一 字音与字体&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;专题二 词语&lt;/strong&gt;&lt;/li&gt;
+      
+    
+    </summary>
+    
+      <category term="Chinese" scheme="http://yoursite.com/categories/Chinese/"/>
+    
+    
+      <category term="Chinese" scheme="http://yoursite.com/tags/Chinese/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Biology</title>
+    <link href="http://yoursite.com/2017/11/18/Biology/"/>
+    <id>http://yoursite.com/2017/11/18/Biology/</id>
+    <published>2017-11-17T17:28:37.000Z</published>
+    <updated>2017-11-18T07:56:22.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;初中&quot;&gt;&lt;a href=&quot;#初中&quot; class=&quot;headerlink&quot; title=&quot;初中&quot;&gt;&lt;/a&gt;初中&lt;/h3&gt;&lt;h4 id=&quot;第一单元-生物和生物圈&quot;&gt;&lt;a href=&quot;#第一单元-生物和生物圈&quot; class=&quot;headerlink&quot; title=&quot;第一单
+      
+    
+    </summary>
+    
+      <category term="Biology" scheme="http://yoursite.com/categories/Biology/"/>
+    
+    
+      <category term="Biology" scheme="http://yoursite.com/tags/Biology/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Geographical</title>
+    <link href="http://yoursite.com/2017/11/17/Geographical/"/>
+    <id>http://yoursite.com/2017/11/17/Geographical/</id>
+    <published>2017-11-17T01:47:24.000Z</published>
+    <updated>2017-11-22T19:50:18.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;世界地理（上）&quot;&gt;&lt;a href=&quot;#世界地理（上）&quot; class=&quot;headerlink&quot; title=&quot;世界地理（上）&quot;&gt;&lt;/a&gt;世界地理（上）&lt;/h2&gt;&lt;h3 id=&quot;第一章-地球和地图&quot;&gt;&lt;a href=&quot;#第一章-地球和地图&quot; class=&quot;header
+      
+    
+    </summary>
+    
+      <category term="Geographical" scheme="http://yoursite.com/categories/Geographical/"/>
+    
+    
+      <category term="Geographical" scheme="http://yoursite.com/tags/Geographical/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chemistry</title>
+    <link href="http://yoursite.com/2017/11/17/Chemistry/"/>
+    <id>http://yoursite.com/2017/11/17/Chemistry/</id>
+    <published>2017-11-16T16:03:59.000Z</published>
+    <updated>2017-11-16T16:42:32.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;初中&quot;&gt;&lt;a href=&quot;#初中&quot; class=&quot;headerlink&quot; title=&quot;初中&quot;&gt;&lt;/a&gt;初中&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;第一单元：走进化学世界&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;第二单元：我们周围的空气&lt;/stro
+      
+    
+    </summary>
+    
+      <category term="Chemistry" scheme="http://yoursite.com/categories/Chemistry/"/>
+    
+    
+      <category term="Chemistry" scheme="http://yoursite.com/tags/Chemistry/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Physics</title>
+    <link href="http://yoursite.com/2017/11/16/Physics/"/>
+    <id>http://yoursite.com/2017/11/16/Physics/</id>
+    <published>2017-11-16T14:38:42.000Z</published>
+    <updated>2017-11-16T15:28:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;初中&quot;&gt;&lt;a href=&quot;#初中&quot; class=&quot;headerlink&quot; title=&quot;初中&quot;&gt;&lt;/a&gt;初中&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;第一章：机械运动&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;第二章：声现象&lt;/strong&gt;&lt;/li&gt;
+      
+    
+    </summary>
+    
+      <category term="Physics" scheme="http://yoursite.com/categories/Physics/"/>
+    
+    
+      <category term="Physics" scheme="http://yoursite.com/tags/Physics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>middle school math</title>
+    <link href="http://yoursite.com/2017/11/08/middle-school-math/"/>
+    <id>http://yoursite.com/2017/11/08/middle-school-math/</id>
+    <published>2017-11-08T11:58:08.000Z</published>
+    <updated>2018-03-18T02:06:52.820Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;初中&quot;&gt;&lt;a href=&quot;#初中&quot; class=&quot;headerlink&quot; title=&quot;初中&quot;&gt;&lt;/a&gt;初中&lt;/h2&gt;&lt;h3 id=&quot;第一章：有理数&quot;&gt;&lt;a href=&quot;#第一章：有理数&quot; class=&quot;headerlink&quot; title=&quot;第一章：有理数&quot;&gt;&lt;/
+      
+    
+    </summary>
+    
+      <category term="math" scheme="http://yoursite.com/categories/math/"/>
+    
+    
+      <category term="math" scheme="http://yoursite.com/tags/math/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Word Syntax</title>
+    <link href="http://yoursite.com/2017/11/08/Word-Syntax/"/>
+    <id>http://yoursite.com/2017/11/08/Word-Syntax/</id>
+    <published>2017-11-08T11:48:31.000Z</published>
+    <updated>2017-11-08T11:52:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;读《金字塔原理》&quot;&gt;&lt;a href=&quot;#读《金字塔原理》&quot; class=&quot;headerlink&quot; title=&quot;读《金字塔原理》&quot;&gt;&lt;/a&gt;读《金字塔原理》&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;作者简介：&lt;/strong&gt;芭芭拉•明托，麦肯锡公司第一位女性咨询顾问。明托
+      
+    
+    </summary>
+    
+      <category term="Word" scheme="http://yoursite.com/categories/Word/"/>
+    
+    
+      <category term="Word" scheme="http://yoursite.com/tags/Word/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown sequence &amp; flow</title>
+    <link href="http://yoursite.com/2017/11/08/Markdown-sequence-flow/"/>
+    <id>http://yoursite.com/2017/11/08/Markdown-sequence-flow/</id>
+    <published>2017-11-08T11:27:22.000Z</published>
+    <updated>2017-11-09T01:35:26.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div id=&quot;sequence-0&quot;&gt;&lt;/div&gt;
+
+
+&lt;div id=&quot;sequence-1&quot;&gt;&lt;/div&gt;
+
+
+&lt;div id=&quot;flowchart-0&quot; class=&quot;flow-chart&quot;&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;code&gt;`&lt;/code&gt;flow&lt;br&gt;st=&amp;g
+      
+    
+    </summary>
+    
+      <category term="syntax" scheme="http://yoursite.com/categories/syntax/"/>
+    
+    
+      <category term="syntax" scheme="http://yoursite.com/tags/syntax/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown Syntax</title>
+    <link href="http://yoursite.com/2017/11/08/Markdown-Syntax/"/>
+    <id>http://yoursite.com/2017/11/08/Markdown-Syntax/</id>
+    <published>2017-11-08T10:10:25.000Z</published>
+    <updated>2017-11-08T10:12:58.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Markdown-语法和-MWeb-写作使用说明&quot;&gt;&lt;a href=&quot;#Markdown-语法和-MWeb-写作使用说明&quot; class=&quot;headerlink&quot; title=&quot;Markdown 语法和 MWeb 写作使用说明&quot;&gt;&lt;/a&gt;Markdown 语法和 MWeb 写作使用说明&lt;/h1&gt;&lt;h2 id=&quot;Markdown-的设计哲学&quot;&gt;&lt;a href=&quot;#Markdown-的设计哲学&quot; class=&quot;headerlink&quot; title=&quot;Markdown 的设计哲学&quot;&gt;&lt;/a&gt;Markdown 的设计哲学&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;Markdown 的目標是實現「易讀易寫」。&lt;br&gt;不過最需要強調的便是它的可讀性。一份使用 Markdown 格式撰寫的文件應該可以直接以純文字發佈，並且看起來不會像是由許多標籤或是格式指令所構成。&lt;br&gt;Markdown 的語法有個主要的目的：用來作為一種網路內容的&lt;em&gt;寫作&lt;/em&gt;用語言。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Syntax" scheme="http://yoursite.com/categories/Syntax/"/>
+    
+    
+      <category term="Syntax" scheme="http://yoursite.com/tags/Syntax/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mathematician</title>
+    <link href="http://yoursite.com/2017/11/08/Mathematician/"/>
+    <id>http://yoursite.com/2017/11/08/Mathematician/</id>
+    <published>2017-11-08T03:58:19.000Z</published>
+    <updated>2017-11-08T11:45:24.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;麦克斯韦方程组&quot;&gt;&lt;a href=&quot;#麦克斯韦方程组&quot; class=&quot;headerlink&quot; title=&quot;麦克斯韦方程组 :&quot;&gt;&lt;/a&gt;麦克斯韦方程组 :&lt;/h3&gt;&lt;p&gt;$$&lt;br&gt;\begin{eqnarray}&lt;br&gt;\nabla\cdot\vec{E} &amp;
+      
+    
+    </summary>
+    
+      <category term="Math" scheme="http://yoursite.com/categories/Math/"/>
+    
+    
+      <category term="Math" scheme="http://yoursite.com/tags/Math/"/>
+    
+  </entry>
+  
+</feed>
